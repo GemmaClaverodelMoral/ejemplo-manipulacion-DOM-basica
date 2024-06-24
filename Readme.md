@@ -19,3 +19,4 @@
 * >git remote add origin https://github.com/GemmaClaverodelMoral/ejemplo-manipulacion-DOM-basica.git
 * Se hace push de los archivos deseados del origen (local) al main de github
 * >git push -u origin main
+Para empezar un proyecto desde cero desde Github ir al repositorio: practica-desde-cero-desde-github
